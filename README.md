@@ -1,0 +1,2 @@
+# PROJECT-TITLE-GOOGLE-STOCK-PRICE-PREDICTION-USING-RECURRENT-NEURAL-NETWORKS-RNN-
+This project builds a Recurrent Neural Network with stacked LSTM layers to predict Google stock prices. It preprocesses historical stock data, trains the model using 60 previous timesteps, and forecasts future prices. The results are visualized by comparing actual and predicted prices, demonstrating RNN’s ability to capture temporal stock trend.
